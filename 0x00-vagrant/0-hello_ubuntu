@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Kernel name of the system"
