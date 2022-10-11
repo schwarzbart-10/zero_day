@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Kernel name of the system"
+it prints the basic information about the Linux operating and system hardware
